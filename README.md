@@ -2,6 +2,12 @@
 
 Hey! This is my task management app that I built using React and Express. It's got JWT auth, full CRUD for tasks, and I've tried to make the UI look pretty clean and modern.
 
+## Repositories
+
+- **Server:** [Link to Server Repo](https://github.com/username/judix-server)
+- **Client:** [Link to Client Repo](https://github.com/username/judix-client)
+- **Monorepo (if applicable):** [Link to Repo](https://github.com/username/judix)
+
 ## What I Used
 
 **Backend:**
@@ -23,7 +29,7 @@ You'll need Node.js (v18+) and MongoDB installed. I use MongoDB Atlas for the cl
 
 **Setup:**
 
-1. Clone this thing
+1. Clone the repository
 ```bash
 git clone <repository-url>
 cd judix
@@ -101,8 +107,7 @@ judix/
 │
 ├── README.md
 ├── SCALING.md
-└── Judix-API.postman_collection.json
-```
+└── openapi.json
 
 ## API Routes
 
