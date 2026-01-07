@@ -4,9 +4,8 @@ Hey! This is my task management app that I built using React and Express. It's g
 
 ## Repositories
 
-- **Server:** [Link to Server Repo](https://github.com/username/judix-server)
-- **Client:** [Link to Client Repo](https://github.com/username/judix-client)
-- **Monorepo (if applicable):** [Link to Repo](https://github.com/username/judix)
+- **Server:** [Link to Server Repo](https://github.com/AkshatGarg952/Judix-Assignment-Server)
+- **Client:** [Link to Client Repo](https://github.com/AkshatGarg952/Judix-Assignment-Client)
 
 ## What I Used
 
@@ -149,3 +148,4 @@ I've tried to keep things secure:
 ## License
 
 ISC
+
